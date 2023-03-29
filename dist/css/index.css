@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(112, 184, 248);
+    font-family: 'Barlow', sans-serif; 
+}
+
+
+
+.main h1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    font-size: 100px;
+    color: aliceblue;
+}
+
